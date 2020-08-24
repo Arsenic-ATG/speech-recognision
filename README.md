@@ -13,5 +13,5 @@ exploring the speech recognision module of the python
 3. for detailed information see [python's official tutorial on how to install packages](https://packaging.python.org/tutorials/installing-packages/)
 
 ### how to get it running
-- 👯‍♂️clone/download using ```ssh key```
+- 👯‍♂️clone/download using ```git@github.com:Arsenic-ATG/speech-recognision.git```
 - run the python script
